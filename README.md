@@ -1,4 +1,4 @@
 spoj
 ====
 
-Source code for SPOJ pricticing
+Source code for SPOJ practicing
